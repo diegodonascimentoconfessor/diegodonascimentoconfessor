@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego do Nascimento Confessor</h1>
-<h3 align="center">Sou Estudante de desenvolvedor de Sistema/SENAC</h3>
+<h3 align="center">Sou Estudante  desenvolvedor de Sistema/SENAC</h3>
 
 - 🌱 I’m currently learning **java Script**
 
