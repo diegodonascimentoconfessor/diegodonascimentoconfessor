@@ -33,3 +33,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   </a>
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodonascimentoconfessor)](https://github.com/anuraghazra/github-readme-stats)
